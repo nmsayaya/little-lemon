@@ -1,1 +1,2 @@
 Hello World!
+Alhamdulillah! I have push my first commit.
